@@ -1,3 +1,3 @@
 # Arduino Sensor Plotter
 
-TODO
+![Bilby Stampede](https://github.com/DianaLog/ArduinoSensorPlotter/blob/master/ArduinoSensorPlotter.png)
